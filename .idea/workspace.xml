@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b46d8b4-ee0a-47d9-b2d9-bda388826e7f" name="Default Changelist" comment="" />
+    <list default="true" id="2b46d8b4-ee0a-47d9-b2d9-bda388826e7f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-dinner/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/live-dinner/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-dinner/images/DSC_0734.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-dinner/images/DSC_0786.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-dinner/images/gallery-img-02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-dinner/images/gallery-img-03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-dinner/images/gallery-img-04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-dinner/images/gallery-img-05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-dinner/images/gallery-img-06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-dinner/images/gurmanska.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-dinner/images/img-01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-dinner/images/img-02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-dinner/images/img-03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-dinner/images/img-04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-dinner/images/img-05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-dinner/images/img-06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-dinner/images/img-07.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-dinner/images/img-08.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-dinner/images/img-09.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-dinner/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-dinner/images/zlatiborska.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-dinner/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/live-dinner/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +39,9 @@
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1t4SEhRl8509QrWINhUMu2AX7YX" />
   <component name="ProjectViewState">
@@ -39,7 +65,8 @@
       <workItem from="1622026760413" duration="10974000" />
       <workItem from="1622109686790" duration="20463000" />
       <workItem from="1622303942570" duration="4389000" />
-      <workItem from="1623237465235" duration="8250000" />
+      <workItem from="1623237465235" duration="12099000" />
+      <workItem from="1623310638384" duration="7372000" />
     </task>
     <servers />
   </component>
@@ -51,9 +78,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="535" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1622111617749" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1622306179386">
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1623311291272">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1622306179386" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1623311291272" />
   </component>
 </project>

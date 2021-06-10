@@ -658,6 +658,42 @@ button:focus{
 }
 
 
+
+/*reviews2*/
+
+#reviews2 .carousel-control-prev{
+	background: #d65106;
+	color: #ffffff;
+	display: block;
+	position: absolute;
+	width: 8%;
+	height: 50px;
+	top: 50%;
+	border-radius: 4px;
+	font-size: 28px;
+	opacity: 1;
+}
+#reviews2 .carousel-control-prev:hover{
+	background: #010101;
+	color: #ffffff;
+}
+
+#reviews2 .carousel-control-next{
+	background: #d65106;
+	color: #ffffff;
+	display: block;
+	position: absolute;
+	width: 8%;
+	height: 50px;
+	top: 50%;
+	border-radius: 4px;
+	font-size: 28px;
+	opacity: 1;
+}
+#reviews2 .carousel-control-next:hover{
+	background: #010101;
+	color: #ffffff;
+}
 /*------------------------------------------------------------------
     Contact info
 -------------------------------------------------------------------*/
