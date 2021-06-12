@@ -23,146 +23,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="588391f5-1bf9-4c19-b2fe-513d4dfe3091" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/livediner.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/.idea/live-dinner.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/blog-details.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/blog.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/contact.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/css/animate.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/css/baguetteBox.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/css/classic.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/css/classic.date.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/css/classic.time.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/css/custom.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/css/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/css/responsive.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/css/superslides.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/fonts/FontAwesome.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/fonts/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/fonts/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/fonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/fonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/fonts/fontawesome-webfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/gallery.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/DSC_0738.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/DSC_0784.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/GURMANSKA.PITA6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/PITA.SIR.ZELJE9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/ZLATIBORSKA.PITA4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/about-bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/about-img.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/about5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/about6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/all-bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/avt-img.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/background.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/background4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/blog-img-01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/blog-img-02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/blog-img-03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/blog-img-04.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/blog-img-05.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/blog-img-06.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/blog-img-07.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/blog-img-08.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/blog-img-09.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/cabata.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/cesar_salata.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/donesi.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/donesi5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/footer-bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/gallery-img-01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/grcka_salata.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/inner-blog-img.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/junetina.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/lokal.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/mr_logo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/mr_pizza.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/mrpita3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/mrpita_spolja.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/mrpita_unutra.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/one.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/pasta_karbonara.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/pasta_polo_pesto.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/pita.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/pita_ferero.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/pita_jabuka.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/pita_jabuka_cimet.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/pita_jafa.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/pita_kajsija.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/pita_kajsija2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/pita_kapri.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/pita_kokos.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/pita_krompir.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/pita_malina.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/pita_pecurke.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/pita_pica.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/pita_sir.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/pita_snikers.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/pita_sumsko_voce.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/pita_visnja.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/pita_zdenka_pecenica.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/pizza_quatro_formaggi.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/pizza_vegeterijana.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/pizza_vegeterijana2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/porcija.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/porcija2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/porcija3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/post-img-01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/post-img-02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/post-img-03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/qt-bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/quatroformaggi.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/quotations-button.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/sendvic.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/sendvic2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/sendvic3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/sendvic4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/sendvic5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/sir-zelje.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/sir.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/slider-01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/slider-02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/slider-03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/slider10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/slider14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/slider15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/slider16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/slider19.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/three.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/tortilja.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/two.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/wolt.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/images/zelje-sir.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/js/baguetteBox.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/js/contact-form-script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/js/custom.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/js/form-validator.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/js/images-loded.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/js/isotope.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/js/jquery-3.2.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/js/jquery.mapify.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/js/jquery.superslides.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/js/legacy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/js/picker.date.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/js/picker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/js/picker.time.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/js/popper.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/menu.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/php/form-process.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/reservation.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-dinner/stuff.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mrpita" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/DSC_0738.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/DSC_0784.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -184,6 +49,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -199,7 +65,7 @@
       <workItem from="1623323521941" duration="129000" />
       <workItem from="1623323731662" duration="11035000" />
       <workItem from="1623345431496" duration="6677000" />
-      <workItem from="1623392470775" duration="14231000" />
+      <workItem from="1623392470775" duration="41568000" />
     </task>
     <servers />
   </component>

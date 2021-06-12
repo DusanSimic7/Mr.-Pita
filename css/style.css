@@ -28,8 +28,43 @@ body {
 
 }
 
+h1{
+	color: #fff;
+}
+
+.neparno{
+	padding: 0;
+
+}
+
+.parno{
+	padding: 0;
+}
+
+
+.neparno{
+	display: none;
+}
+
 .nav-font{
-	font-family: 'Ubuntu', sans-serif;}
+	font-family: 'Ubuntu', sans-serif;
+
+}
+
+
+.nazivi-cenovnik{
+	font-size: 15px;
+	color: #fff;
+}
+
+.pizza-sastav{
+	font-size: 12px;
+	font-weight: normal;
+	margin-bottom: 4px;
+}
+
+
+
 
 /** {*/
 /*	-webkit-overflow-scrolling: touch;*/
@@ -657,6 +692,14 @@ button:focus{
 	.image-delivery{
 		width: 250px;
 		height: 150px;
+	}
+}
+
+
+@media screen and (max-width: 775px) {
+
+	.neparno{
+		display: block;
 	}
 }
 
